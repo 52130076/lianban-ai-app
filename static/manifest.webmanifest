@@ -1,0 +1,10 @@
+{
+  "name": "练伴AI",
+  "short_name": "小练",
+  "description": "健身房自练党的训练助手",
+  "start_url": "/lianban-ai-app/",
+  "scope": "/lianban-ai-app/",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#0f766e"
+}
